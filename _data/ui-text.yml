@@ -31,6 +31,45 @@ en-US:
   <<: *DEFAULT_EN
 en-UK:
   <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
 
 # Another locale
 # --------------
+
+
+de: &DLOCALE_DE
+  page                  : "Seite"
+  pagination_previous   : "Vorherige"
+  pagination_next       : "Nächste"
+  breadcrumb_home_label : "Startseite"
+  breadcrumb_separator  : "/"
+  toc_label             : "Auf dieser Seite"
+  ext_link_label        : "Direkter Link"
+  less_than             : "weniger als"
+  minute_read           : "Minute zu lesen"
+  minutes_read          : "Minuten zu lesen"
+  share_on_label        : "Teile auf"
+  meta_label            :
+  tags_label            : "Tags:"
+  categories_label      : "Kategorien:"
+  date_label            : "Aktualisiert:"
+  comments_label        : "Hinterlasse einen Kommentar"
+  more_label            : "Lese weiter"
+  related_label         : "Ähnliche Beiträge"
+  follow_label          : "Folge:"
+  feed_label            : "Feed"
+  powered_by            : "Powered by"
+  website_label         : "Website"
+  email_label           : "Email"
+  recent_posts          : "Neueste Einträge"
+de-AT:
+  <<: *DLOCALE_DE
+de-DE:
+  <<: *DLOCALE_DE
+de-LI:
+  <<: *DLOCALE_DE
+de-LU:
+  <<: *DLOCALE_DE
+de-CH:
+  <<: *DLOCALE_DE
