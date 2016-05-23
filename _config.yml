@@ -11,7 +11,7 @@ title                    : "Improve your Eye Wellbeing"
 title_separator          : "-"
 name                     : &name "Friederike Wild"
 description              : &description "About Friederike Wild - coach for eye wellbeing based in London UK and online. Helping you to relax your eyes and improve your vision."
-url                      : "http://http://friederikewild.me/"
+url                      : "http://friederikewild.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
