@@ -127,6 +127,11 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-auto-image
+  jekyll-feed
+  jekyll-gist
+  jekyll-paginate
+  jekyll-sitemap
+  jemoji
 
 BUNDLED WITH
    1.12.4
