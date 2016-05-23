@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "en-GB"
+title                    : "Improve your Eye Wellbeing"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Friederike Wild"
+description              : &description "About Friederike Wild - coach for eye wellbeing based in London UK and online. Helping you to relax your eyes and improve your vision."
+url                      : "http://http://friederikewild.me/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -61,30 +61,30 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : *name
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Coach for Eye Wellbeing"
+  location         : "London UK"
+  email            : &mail "coach@friederikewild.me"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : &facebook "veganised.uk"
   foursquare       :
   github           :
-  google_plus      :
+  google_plus      : # need name after +
   keybase          :
-  instagram        :
+  instagram        : "fithappybeing"
   lastfm           :
-  linkedin         :
+  linkedin         : "friederike-wild-b933087"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : #fithappybeing? or something new?
   vine             :
   weibo            :
   xing             :
@@ -149,7 +149,7 @@ kramdown:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Europe/London"
 
 
 # Plugins
@@ -159,6 +159,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-auto-image
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -167,6 +168,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-auto-image
 
 
 # Archives
