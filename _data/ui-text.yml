@@ -42,7 +42,7 @@ de: &DLOCALE_DE
   page                  : "Seite"
   pagination_previous   : "Vorherige"
   pagination_next       : "Nächste"
-  breadcrumb_home_label : "Startseite"
+  breadcrumb_home_label : "Home"
   breadcrumb_separator  : "/"
   toc_label             : "Auf dieser Seite"
   ext_link_label        : "Direkter Link"

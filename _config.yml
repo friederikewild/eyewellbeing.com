@@ -63,10 +63,10 @@ google_ad_slot           :
 author:
   name             : *name
   avatar           : "bio-photo.jpg"
-  bio              : "Coach for Eye Wellbeing"
+  bio              : "Coach for Eye Wellbeing and Blogger promoting delicous vegan food."
   location         : "London UK"
   email            : &mail "coach@friederikewild.me"
-  uri              :
+  uri              : http://veganised.co.uk
   bitbucket        :
   codepen          :
   dribbble         :
