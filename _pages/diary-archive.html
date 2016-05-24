@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Eye Diary"
+permalink: /diary/
+author_profile: false
+---
+
+{% include base_path %}
+
+<div class="grid__wrapper">
+  {% for post in site.diary %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
