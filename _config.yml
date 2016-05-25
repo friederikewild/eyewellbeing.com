@@ -7,9 +7,10 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Improve your Eye Wellbeing"
+title                    : "Eye Wellbeing"
 title_separator          : "-"
 name                     : &name "Friederike Wild"
+tagline                  : "Improve your Eye Wellbeing"
 description              : &description "About Friederike Wild - coach for eye wellbeing based in London UK and online. Helping you to relax your eyes and improve your vision."
 url                      : "http://friederikewild.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -148,7 +149,7 @@ kramdown:
 
 # Collections
 collections:
-  diary:
+  exercises:
     output: true
     permalink: /:collection/:path/
 
@@ -173,10 +174,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-# _diary
+# _exercises
   - scope:
       path: ""
-      type: diary
+      type: exercises
     values:
       layout: single
       author_profile: true
