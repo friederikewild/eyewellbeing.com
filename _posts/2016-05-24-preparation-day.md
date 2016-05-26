@@ -2,8 +2,9 @@
 title: "Preparation day"
 excerpt: "May 24th - Preparing the website and struggle finding time"
 header:
-  teaser: "teaser_working_fdp-100334329.jpg"
-  caption: "Photo credit: [**blackzheep at FreeDigitalPhotos.net**](FreeDigitalPhotos.net)"
+  teaser: "teaser_unsplash_laptop.jpg"
+  image: "header_unsplash_laptop.jpg"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories: 
   - Personal
 tags:
@@ -26,12 +27,3 @@ In the late afternoon the sunshine wooed me outside to do another set of sunbath
 
 **Learning:** Plan your day ahead and include free time-slots of dedicated time for your eye wellbeing. Your future self will thank you! But also do not beat yourself up, when you miss a planned session. Instead set a new intention and be grateful for each time you take aside to focus on your eyes.
 
-
-{% capture fig_img %}
-![Foo]({{ base_path }}/images/teaser_working_fdp-100334329.jpg)
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Image courtesy of blackzheep at FreeDigitalPhotos.net</figcaption>
-</figure>
