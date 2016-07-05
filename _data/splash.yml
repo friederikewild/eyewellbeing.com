@@ -1,0 +1,14 @@
+# splash links
+
+- title: Eye Wellbeing
+  url: /eyewellbeing/
+  hometeaser: home_unsplash_eye.jpg
+
+- title: "Work With Me"
+  url: /coaching/
+  hometeaser: home_unsplash_work.jpg
+
+- title: "About Me"
+  url: /about/
+  hometeaser: bio-photo.jpg
+  

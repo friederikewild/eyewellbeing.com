@@ -1,4 +1,5 @@
 ---
+permalink: /blog/
 layout: archive
 title: "Improve your Eye Wellbeing"
 excerpt: "Friederike Wild your coach for eye wellbeing for healthy and vital vision."
@@ -17,22 +18,12 @@ header:
 
 {% include base_path %}
 
-<div class="grid__wrapper">
-  {% for post in site.data.splash %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
-
-
-<div style="clear:both"></div>
-
-
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
 
 <div class="grid__wrapper">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
 
-{% include paginator.html %}
+{% include archive-single.html %}

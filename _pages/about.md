@@ -2,8 +2,12 @@
 permalink: /about/
 title: "About Friederike Wild"
 layout: single
-excerpt: "About Friederike Wild and the background of eye wellbeing for healthy and vital vision."
-modified: 2016-05-24T15:55:00-1:00
+excerpt: "About Friederike Wild and her background of eye wellbeing for healthy and vital vision."
+header:
+  teaser: "teaser_unsplash_road.jpg"
+  image: "header_unsplash_road.jpg"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+modified: 2016-07-05T11:20:00-1:00
 
 ---
 
@@ -17,7 +21,10 @@ Born 1983 in Germany, I studied computer science and proceeded a career as mobil
 The fascination for eye therapy training started when discovering, that it offers an alternative to depending on strong contact lenses and glasses for my short-sightedness. Wearing glasses had weakened my eyes over the years and my last contact lenses prescription was -7 dioptre on both eyes. I'm still on my own journey to completely regain my vision, but already I can tell how beneficial the routine is.
 
 
-I would love to be your coach for eye wellbeing and help you to learn to relax and improve your eyes as well. 
+I currently study in Germany with renowned vision teacher [Wolfgang Hätscher-Rosenbauer](http://institut-fuer-sehtraining.de/) and will complete my teacher training in September 2016.
+
+
+I would love to be your coach for eye wellbeing and help you to learn to relax and discover your eyes full potential. 
 
 ---
 
