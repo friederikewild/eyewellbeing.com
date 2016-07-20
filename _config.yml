@@ -72,12 +72,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : &facebook "veganised.uk"
+  facebook         : &facebook "EyeWellbeing"
   foursquare       :
   github           :
   google_plus      : # need name after +
   keybase          :
-  instagram        : "fithappybeing"
+  instagram        : &instagram "eyewellbeing"
   lastfm           :
   linkedin         : "friederike-wild-b933087"
   pinterest        :
@@ -85,7 +85,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #*twitter
+  twitter          : &twitter "eyewellbeing"
   vine             :
   weibo            :
   xing             :
