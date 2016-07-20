@@ -388,7 +388,7 @@ input[type="submit"],
 .btn,
 #goog-wm-sb,
 .highlight,
-.archive__item-teaser {
+.archive__item-teaser, .archive__splash-teaser {
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out
 }
@@ -2396,14 +2396,14 @@ select:focus {
 .archive__item-excerpt+p {
     text-indent: 0
 }
-.archive__item-teaser {
+.archive__item-teaser, .archive__splash-teaser {
     border-radius: 4px;
     overflow: hidden
 }
-.archive__item-teaser img {
+.archive__item-teaser img, .archive__splash-teaser img {
     width: 100%
 }
-a:hover .archive__item-teaser {
+a:hover .archive__item-teaser, a:hover .archive__splash-teaser {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.25)
 }
 a:hover .archive__item-title {
@@ -2459,6 +2459,9 @@ a:hover .archive__item-title {
     .grid__item .archive__item-teaser {
         max-height: 200px
     }
+    .grid__item .archive__splash-teaser {
+        height: 100%
+    }
 }
 @media (min-width: 48em) {
     .grid__item {
@@ -2490,6 +2493,9 @@ a:hover .archive__item-title {
     }
     .grid__item .archive__item-teaser {
         max-height: 120px
+    }
+    .grid__item .archive__splash-teaser {
+        height: 100%
     }
     .grid__item .archive__item-excerpt {
         display: block;
@@ -2550,12 +2556,18 @@ a:hover .archive__item-title {
     margin-right: 0;
     font-size: 1.25rem
 }
-.feature__item--left .archive__item-teaser {
+.feature__item--left .archive__item-teaser, .feature__item--left .archive__splash-teaser {
     margin-bottom: 2em
 }
 @media (min-width: 37.5em) {
     .feature__item--left .archive__item-teaser {
         width: 40.67797%;
+        float: left;
+        margin-right: 1.69492%
+    }
+    .feature__item--left .archive__splash-teaser {
+        width: 40.67797%;
+        height: 40.67797%;
         float: left;
         margin-right: 1.69492%
     }
@@ -2575,7 +2587,7 @@ a:hover .archive__item-title {
     margin-right: 0;
     font-size: 1.25rem
 }
-.feature__item--right .archive__item-teaser {
+.feature__item--right .archive__item-teaser, .feature__item--right .archive__splash-teaser {
     margin-bottom: 2em
 }
 @media (min-width: 37.5em) {
@@ -2584,6 +2596,12 @@ a:hover .archive__item-title {
     }
     .feature__item--right .archive__item-teaser {
         width: 40.67797%;
+        float: right;
+        margin-left: 1.69492%
+    }
+    .feature__item--right .archive__splash-teaser {
+        width: 40.67797%;
+        height: 40.67797%;
         float: right;
         margin-left: 1.69492%
     }
@@ -2603,7 +2621,7 @@ a:hover .archive__item-title {
     margin-right: 0;
     font-size: 1.25rem
 }
-.feature__item--center .archive__item-teaser {
+.feature__item--center .archive__item-teaser, .feature__item--center .archive__splash-teaser {
     margin-bottom: 2em
 }
 @media (min-width: 37.5em) {
@@ -2613,6 +2631,11 @@ a:hover .archive__item-title {
     .feature__item--center .archive__item-teaser {
         margin: 0 auto;
         width: 40.67797%
+    }
+    .feature__item--center .archive__splash-teaser {
+        margin: 0 auto;
+        width: 40.67797%;
+        height: 40.67797%
     }
     .feature__item--center .archive__item-body {
         margin: 0 auto;

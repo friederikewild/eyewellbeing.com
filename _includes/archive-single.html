@@ -8,6 +8,12 @@
   {% capture teaser %}{{ site.teaser }}{% endcapture %}
 {% endif %}
 
+{% if include.format == 'splash' %}
+  {% capture teaser_class %}archive__splash-teaser{% endcapture %}
+{% else %}
+  {% capture teaser_class %}archive__item-teaser{% endcapture %}
+{% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
   {% if post.link %}
     <a href="{{ post.link }}" target="_blank">
@@ -16,7 +22,7 @@
   {% endif %}
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       {% if include.type == "grid" and teaser != blank %}
-        <div class="archive__item-teaser">
+        <div class="{{ teaser_class }}">
           <img src=
             {% if teaser contains "http" %}
               "{{ teaser }}"
