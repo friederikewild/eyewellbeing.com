@@ -3,11 +3,13 @@ main:
   - title: "Info"
     url: /eyewellbeing/
 
-  - title: "About me" #Über mich
-    url: /about/
 
   - title: "Work with me"
     url: /coaching/
+
+  - title: "About me" #Über mich
+    url: /about/
+
 
 #  - title: "Blog"
 #    url: /blog/
