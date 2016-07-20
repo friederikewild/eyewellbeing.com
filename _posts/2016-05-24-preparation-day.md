@@ -1,4 +1,5 @@
 ---
+published: false
 title: "Preparation day"
 excerpt: "May 24th - Preparing the website and struggle finding time"
 header:

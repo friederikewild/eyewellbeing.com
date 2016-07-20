@@ -26,6 +26,8 @@ header:
 
 <div style="clear:both"></div>
 
+{% if paginator.posts %}
+
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
 
@@ -35,4 +37,9 @@ header:
   {% endfor %}
 </div>
 
+
+{% endif %}
+
+
 {% include paginator.html %}
+
