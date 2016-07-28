@@ -28,7 +28,8 @@ Eye Wellbeing is not a quick fix like put on glasses or get a laser eye surgery.
 You will learn techniques and small fun eye yoga exercises to integrate into your day-to-day life. 
 
 
-The program aims to prevent, improve and maintain vision disorders naturally. With time it can improve many different types of vision disorders. 
+The program aims to maintain healthy sight and prevent impaired vision. With time it can improve many different types of vision disorders naturally. 
+
 
 [Contact me](/coaching) if you like to find out more. 
 
