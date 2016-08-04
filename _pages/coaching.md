@@ -29,14 +29,30 @@ header:
 Thank you for your interest in improving your Eye Wellbeing with me.
 
 
-I currently offer in London:
+The aim is to prevent or reduce eye fatigue and vision stress which appear with symptoms of
 
-* Introduction Workshops
-* Individual or group training
+* headaches
+* dry, tired, itching and/or burning eyes
+* fading eye sight
+* increased sensitivity to light
+
+These symptoms can decrease your productivity and your happiness at your workplace and your daily life. Therefore learning simple precautions can improve your wellbeing significantly, not only for your eyes. Working with the computer will feel easier as well with relaxed and refreshed eyes.
+
+
+### I currently offer in London:
+
 * Workplace Workshops
+* Introduction Workshops
+* Individual or group courses of 8 modules (each 90 minutes)
+
+The one hour workshop offers an overview to the topic as well as useful tips and short habits to integrate in your daily life.
+
+The full course consists of 8 modules each focusing in depth on different areas of our vision with many fun exercises and information. 
+The teaching language is English if not else indicated. Training can be offered in German as well.
 
 
-The teaching language for all workshops is English. Individual training can be offered in German as well.
+Eye wellness is suitable for everyone who wants to maintain a healthy sight and learn how to prevent or improve vision disorders naturally. 
+Wear comfortable clothes and bring along your contact lens container and your spectacle case. 
 
 
 If you would like to know more, please contact me via [email](mailto:{{ author.email }}) for further details.
