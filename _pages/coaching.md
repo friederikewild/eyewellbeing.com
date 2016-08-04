@@ -2,7 +2,7 @@
 permalink: /coaching/
 layout: single
 title: "Work with me"
-excerpt: "Friederike Wild your coach for eye wellbeing for healthy and vital vision."
+excerpt: "Friederike Wild your coach for eye wellbeing. Learn with me how to maintain a healthy sight, as well as to prevent and improve vision disorders naturally."
 author_profile: true
 sitemap: true
 read_time: false
@@ -29,30 +29,31 @@ header:
 Thank you for your interest in improving your Eye Wellbeing with me.
 
 
-The aim is to prevent or reduce eye fatigue and vision stress which appear with symptoms of
+The aim is to prevent or reduce eye fatigue and vision stress which appear with symptoms such as
 
-* headaches
-* dry, tired, itching and/or burning eyes
-* fading eye sight
-* increased sensitivity to light
+* Headaches
+* Dry, tired, itching and/or burning eyes
+* Fading eye sight
+* Increased sensitivity to light
 
-These symptoms can decrease your productivity and your happiness at your workplace and your daily life. Therefore learning simple precautions can improve your wellbeing significantly, not only for your eyes. Working with the computer will feel easier as well with relaxed and refreshed eyes.
+These symptoms can decrease your productivity and your happiness at work and in your daily life. Therefore making simple precautions can improve your wellbeing significantly, not only for your eyes. Working with the computer will feel easier as well with relaxed and refreshed eyes.
 
 
 ### I currently offer in London:
 
-* Workplace Workshops
-* Introduction Workshops
-* Individual or group courses of 8 modules (each 90 minutes)
+* Workplace workshops
+* Introduction workshops
+* Individual or group course of 8 modules (each 90 minutes)
 
-The one hour workshop offers an overview to the topic as well as useful tips and short habits to integrate in your daily life.
+The one hour workshop offers an overview to the topic as well as useful tips and short habits to integrate in your daily routine.
 
-The full course consists of 8 modules each focusing in depth on different areas of our vision with many fun exercises and information. 
-The teaching language is English if not else indicated. Training can be offered in German as well.
+The full course consists of 8 modules each focusing in depth on different aspects of our vision. Many fun exercises will illustrate the information.
 
 
 Eye wellness is suitable for everyone who wants to maintain a healthy sight and learn how to prevent or improve vision disorders naturally. 
-Wear comfortable clothes and bring along your contact lens container and your spectacle case. 
+Wear comfortable clothes and bring along your contact lens container and or your spectacle case. 
+
+Teaching is offered in English or German.
 
 
-If you would like to know more, please contact me via [email](mailto:{{ author.email }}) for further details.
+If you would like to know more, please contact me via [coach(at)friederikewild.me](mailto:{{ author.email }}) for further details.
