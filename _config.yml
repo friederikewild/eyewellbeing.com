@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Friederike Wild"
 tagline                  : "Improve your Eye Wellbeing"
 description              : &description "About Friederike Wild - coach for eye wellbeing based in London UK and online. Helping you to relax your eyes and improve your vision."
-url                      : "http://friederikewild.me"
+url                      : "http://eyewellbeing.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : "teaser_default.png"
@@ -66,8 +66,8 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "Coach for eye wellbeing and blogger promoting delicous vegan food."
   location         : "London UK"
-  email            : &mail "coach@friederikewild.me"
-  uri              : http://veganised.co.uk
+  email            : &mail "coach@eyewellbeing.com"
+  uri              : # http://veganised.co.uk
   bitbucket        :
   codepen          :
   dribbble         :
