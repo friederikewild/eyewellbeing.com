@@ -34,7 +34,7 @@ Eye Wellbeing is not a quick fix like putting on glasses or getting laser eye su
 The programme aims to maintain a healthy sight and prevent impaired vision. With time it can improve many different types of vision disorders naturally.
 
 
-Read about [working with me](/coaching) or contact me via [coach(at)friederikewild.me](mailto:{{ author.email }}) for further details.
+Read about [working with me](/coaching) or contact me via [coach(at)eyewellbeing.com](mailto:{{ author.email }}) for further details.
 
 
 
