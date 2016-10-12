@@ -149,14 +149,15 @@ kramdown:
 
 # Collections
 collections:
-  exercises:
+  treats:
     output: true
-    permalink: /:collection/:path/
+    permalink: /treats/:path/
+    title: "Eye Treats"
 
 
 # Defaults
 defaults:
-  # _posts
+# _posts
   - scope:
       path: ""
       type: posts
@@ -174,10 +175,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-# _exercises
+# _treats
   - scope:
       path: ""
-      type: exercises
+      type: treats
     values:
       layout: single
       author_profile: true
