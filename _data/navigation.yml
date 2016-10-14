@@ -3,6 +3,8 @@ main:
   - title: "Info"
     url: /eyewellbeing/
 
+  - title: "Eye Treats"
+    url: /treats/
 
   - title: "Work with me"
     url: /coaching/
