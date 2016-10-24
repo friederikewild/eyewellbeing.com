@@ -36,10 +36,10 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter fithappybeing? or something new?
+  username               : &twitter "eyewellbeing"
 facebook:
-  username               : #todo something new?
-  app_id                 :
+  username               : &facebook "EyeWellbeing"
+  app_id                 : 1803690799910199
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
@@ -51,9 +51,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-86230620-1
 
 # Google AdSense
 google_ad_client         :

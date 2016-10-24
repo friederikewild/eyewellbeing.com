@@ -1,15 +1,32 @@
 {% include base_path %}
 
+{% capture url %}{{ site.url }}{{ page.url }}{% endcapture %}
+{% if page.shortUrl != null %}
+    {% assign url = page.shortUrl %}
+{% endif %}
+
 <section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label }}</h4>
   {% endif %}
 
-  <a href="https://twitter.com/intent/tweet?text={{ base_path }}{{ page.url }}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label }} Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="#" onclick="shareToFacebook();" rel="nofollow" target="_blank" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label }} Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://twitter.com/intent/tweet?source={{ url }}&amp;text={{ page.title }}:%20{{ url }}&amp;via={{ site.twitter.username }}" target="_blank" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label }} Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://plus.google.com/share?url={{ url }}" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" target="_blank" class="btn btn--google-plus" title="{{ site.data.ui-text[site.locale].share_on_label }} Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+
+  <a href="mailto:?subject={{ page.title }}&amp;body={{ page.title }}%0D%0A{{ page.excerpt }}%0D%0A%0D%0A{{ url }}" class="btn btn--email" title="{{ site.data.ui-text[site.locale].share_on_label }} Email"><i class="fa fa-fw fa-envelope" aria-hidden="true"></i><span> &nbsp;Email&nbsp;</span></a>
+
+
+
+
+<!-- 
+  <a href="https://twitter.com/intent/tweet?text={{ base_path }}{{ page.url }} via {{ site.twitter.username }}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label }} Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
   <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ page.url }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label }} Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
   <a href="https://plus.google.com/share?url={{ base_path }}{{ page.url }}" class="btn btn--google-plus" title="{{ site.data.ui-text[site.locale].share_on_label }} Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label }} LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label }} LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a> -->
 </section>

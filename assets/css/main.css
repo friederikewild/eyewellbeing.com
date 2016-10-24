@@ -834,6 +834,12 @@ th {
 .btn--linkedin:hover {
     background-color: #006292
 }
+.btn--email {
+    background-color: #007bb6
+}
+.btn--email:hover {
+    background-color: #006292
+}
 .btn--x-large {
     font-size: 1.25em
 }
