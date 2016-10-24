@@ -5,6 +5,45 @@
     {% assign url = page.shortUrl %}
 {% endif %}
 
+
+<script>
+   window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '{{ site.facebook.app_id }}',
+      xfbml      : true,
+      version    : 'v2.8'
+    });
+   };
+
+   (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+
+    function shareToFacebook() {
+      FB.ui({
+        method: 'share',
+        href: '{{ url }}',
+        redirect_uri: '{{ url }}',
+        name: '{{ page.title }}',
+        caption: '{{ site.title }}',
+        ref: 'fac'
+      }, function(response){});
+      return false;
+    }
+
+  function shareToGooglePlus() {
+      window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');
+      return false;
+  }
+
+</script>
+
+
 <section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label }}</h4>
