@@ -1,6 +1,7 @@
 ---
 permalink: /eyewellbeing/
 title: "Eye Wellbeing"
+title_included: true
 layout: single
 excerpt: "About the background and benefits of eye wellbeing. Learn with me how to maintain a healthy sight, as well as to prevent and improve vision disorders naturally."
 share: true

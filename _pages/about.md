@@ -8,6 +8,7 @@ header:
   image: "header_unsplash_road.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 modified: 2016-09-18T20:20:00-1:00
+share: false
 
 ---
 
