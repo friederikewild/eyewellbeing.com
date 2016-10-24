@@ -5,7 +5,8 @@ header:
   teaser: "teaser_unsplash_treats_yawning.jpg"
   image: "header_unsplash_treats_yawning.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-modified: 2016-10-20T9:20:00-1:00
+modified: 2016-10-23T9:20:00-1:00
+affiliate: true
 lang: en
 ref: treat_yawning
 
