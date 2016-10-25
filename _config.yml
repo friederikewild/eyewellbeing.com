@@ -64,7 +64,7 @@ google_ad_slot           :
 author:
   name             : *name
   avatar           : "bio-photo.jpg"
-  bio              : "Coach for eye wellbeing and blogger promoting delicous vegan food."
+  bio              : "Coach for eye wellbeing and blogger promoting delicious vegan food."
   location         : "London UK"
   email            : &mail "coach@eyewellbeing.com"
   uri              : # http://veganised.co.uk
