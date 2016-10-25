@@ -1,6 +1,6 @@
 ---
 title: "Therapeutic Yawning"
-excerpt: "Have you ever asked yourself why we really yawn? Learn how relaxing it treats your body, brain and eyes."
+excerpt: "Start embracing to yawn! Learn how simple yawning is a relaxing treat for your body, brain and eyes."
 header:
   teaser: "teaser_unsplash_treats_yawning.jpg"
   image: "header_unsplash_treats_yawning.jpg"
