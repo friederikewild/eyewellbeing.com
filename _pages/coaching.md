@@ -38,15 +38,22 @@ The aim is to prevent or reduce eye fatigue and vision stress which appear with 
 These symptoms can decrease your productivity and your happiness at work and in your daily life. Therefore, making simple precautions can improve your wellbeing significantly and not only for your eyes. Working with the computer will feel easier as well with relaxed and refreshed eyes.
 
 
-### I currently offer in London:
+### Online coaching
+
+* Individual coaching course (8 x 60 minutes) via Facetime, Hangouts or Skype
+
+My complete eye wellbeing course consists of 8 modules, each focusing in depth on different aspects of our vision. Many exercises will illustrate them and bring the information to life in a fun way! 
+
+
+### I currently offer in London
 
 * Workplace workshops
-* Introduction workshops
-* Individual or group course of 8 modules (each 90 minutes)
+* Group course (Next is planned to start in January 2017)
 
-The one-hour workshop offers an overview to the topic as well as useful tips and short habits to integrate into your daily routine.
-The full course consists of 8 modules, each focusing in depth on different aspects of our vision. Many exercises will illustrate and bring the information to life in a fun way! 
+The workplace workshop offers a compact overview to the topic as well as useful tips and short habits to integrate into your daily routine.
 
+
+### How to prepare:
 
 Eye wellness is suitable for everyone who wants to maintain a healthy sight and learn how to prevent or improve vision disorders naturally. 
 
