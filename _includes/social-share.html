@@ -5,6 +5,11 @@
     {% assign url = page.shortUrl %}
 {% endif %}
 
+{% capture tweet %}{{ page.title }}{% endcapture %}
+{% if page.excerpt != null and page.excerpt != "" %}
+    {% assign tweet = page.excerpt %}
+{% endif %}
+
 
 <script>
    window.fbAsyncInit = function() {
@@ -51,7 +56,7 @@
 
   <a href="#" onclick="shareToFacebook();" rel="nofollow" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label }} Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://twitter.com/intent/tweet?source={{ url }}&amp;text={{ page.title }}:%20{{ url }}&amp;via={{ site.twitter.username }}" target="_blank" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label }} Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?source={{ url }}&amp;text={{ tweet }}:%20{{ url }}&amp;via={{ site.twitter.username }}" target="_blank" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label }} Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
   <a href="https://plus.google.com/share?url={{ url }}" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" target="_blank" class="btn btn--google-plus" title="{{ site.data.ui-text[site.locale].share_on_label }} Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
