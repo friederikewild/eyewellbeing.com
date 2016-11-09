@@ -54,6 +54,7 @@ It might be easier to learn the technique when viewing paper instead of a comput
 - Start over from very close, if you see one or two circles
 - When clearly seeing three circles hold the distance and the focus.
 - Checking out the picture itself the magically hidden image will appear.
+- If you feel like noticing something, but are not sure what it is, then click the link below each image to find out. Often the object becomes clearer once we know, what is hidden.
 
 
 ## Advanced viewing
@@ -74,7 +75,7 @@ The sad news first: With complete visual impairments affecting one or both eyes 
 The basis of magic eye images is that our two eyes each see a slightly different image of the world due to their natural distance. 
 When you look at something near your face and alternately close each eye, it will seem as if the item in front of you is slightly jumping.
 
-The ability to perceive hidden 3D objects is an indicator that your eyes are working correctly together as a team. The brain receives the two slightly different images and when putting them together the magic happens. The capability also proofs a good depth perception. 
+The ability to perceive hidden 3D objects is an indicator that your eyes are working correctly together as a team. The brain receives the two slightly different images and when putting them together the magic happens. The capability also proofs a good depth perception and a relaxed open mind. 
 
 If one of your eyes is significantly weaker than the other but can still see something there is hope even if at first you have trouble seeing the magic. You can train with eye-wellbeing techniques to use both eyes together. This will allow you to be able to perceive depth information in your surroundings and as a bonus the magically hidden 3D objects.
 
@@ -100,6 +101,14 @@ Here I have hidden a more complex scene for you:
 [![Autostereogram with hidden 3D image](/images/page_treats_magic_eye_2.jpg "Autostereogram with hidden 3D image")](/images/page_treats_magic_eye_2.jpg)
 
 [(Click here to see the hidden image)](/images/page_treats_magic_map_2.jpg){:target="_blank"} based on a scene by Jaime Vives Piqueres, published on [devernay.free.fr](http://devernay.free.fr/vision/focus/patio/){:target="_blank"}.
+
+
+Here is one more, dedicated to my former colleagues and that was part of a sweepstake I did at a recent conference:
+
+[![Autostereogram with hidden 3D image](/images/page_treats_magic_eye_3.jpg "Autostereogram with hidden 3D image")](/images/page_treats_magic_eye_3.jpg)
+
+[(Click here to see the hidden image)](/images/page_treats_magic_map_3.jpg){:target="_blank"}
+
 
 If you like computers, you can also start to create your own Stereograms with hidden images and messages using the online [3d Stereogram Maker](http://www.easystereogrambuilder.com/3d-stereogram-maker.aspx).
 
