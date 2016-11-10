@@ -6,5 +6,6 @@ analytics:
   provider: false
 
 comments:
+  provider    : false
   disqus:
     shortname : #"mmistakes-dev"

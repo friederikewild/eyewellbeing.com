@@ -19,9 +19,9 @@ teaser                   : "teaser_default.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "facebook", "google-plus", custom"
+  provider               : "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "eyewellbeing"
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
