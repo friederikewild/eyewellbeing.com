@@ -5,7 +5,7 @@ header:
   teaser: "teaser_unsplash_treats_colours.jpg"
   image: "header_unsplash_treats_colours.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-modified: 2016-10-25T9:20:00-1:00
+modified: 2016-11-24T9:20:00-1:00
 lang: en
 ref: treat_colours
 
@@ -26,11 +26,11 @@ Collecting colours is leading to looking at your surroundings with new **interes
 
 ![Flower in all rainbow colours](/images/page_unsplash_treats_colours_flower.jpg "Flower in all rainbow colours"){: .align-right}
 
-**Choose a colour** in the morning. Get inspired by your wardrobe, photographs or paintings at your walls. Just go with one that you instinctively like without over thinking it.
+**Choose a colour** in the morning. Get inspired by your wardrobe, photographs or paintings at your walls. You can also take a look at this rainbow coloured flower. Just go with one that you instinctively like without over thinking it.
 
 **Look around you**, as you go about your life. This is great whenever you are safe to do so -- for example during your commute on the bus or when walking down the road or in a park. Acknowledge all the different colours you notice. 
 
-**Pause** for a moment whenever you **see your colour of the day** and take a closer look. **Encircle** your discovered item with your eyes. It helps to imagine that your eyes act like a paintbrush with which you are drawing along the outer edge of your found artefact. 
+**Pause** for a moment whenever you **spot your colour of the day** and take a closer look. **Encircle** your discovered item with your eyes. It helps to imagine that your eyes act like a paintbrush with which you are drawing along the outer edge of your found artefact. 
 
 **Admire the details** and the shade of your colour before you let your eyes browse your surroundings again.
 
@@ -50,4 +50,5 @@ The following photograph shows a white outline to indicate how encircling the or
 ![Outlined orange pumpkin](/images/page_unsplash_treats_outline_pumpkin.jpg "Outlined orange pumpkin")
 
 
-But as with all eye treats: **Be patient** with yourself and your eyes if it feels difficult in the beginning. Keep it fun and simple. Go along and be as exact or quick with it as it **feels good for you**. 
+As with all eye treats: 
+**Be patient** with yourself and your eyes if it feels difficult in the beginning. Keep it fun and simple. Go along and be as exact or quick with it as it **feels good for you**. 
