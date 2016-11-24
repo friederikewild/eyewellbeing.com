@@ -53,11 +53,10 @@ The following photograph shows a white outline to indicate how encircling the or
 ## The benefits
 
 As with all eye treats: 
-
 **Be patient** with yourself and your eyes if it feels difficult in the beginning. Keep it fun and simple. Go along and be as exact or quick with it as it **feels good for you**. 
 
 Scanning your surroundings for colours will help you to break free from constant fixed staring and straining. Especially working in front of a screen during the day locks our gaze at a fixed distance leading to tired eyes. By making collecting colours a habit during your commute and any other time possible, you are inviting your eyes to go back to their natural behaviour of constant movement. 
 
 Often vision problems are not only caused by unhealthy habits but also by underlying issues. Our mind wants to protect us by not seeing bad things happening around us that could affect us.
 
-Noticing the colours that are around you will bring you the joy of actually seeing beauty in the world and welcome your eyes to see with kindness and love. Let this treat not only move your eyes but also calm and soothe your mind. 
+Noticing the colours that are around you will bring you the joy of actually seeing beauty in the world and welcome your eyes to **see with kindness and love**. Let this treat not only move your eyes but also calm and **soothe your mind**. 
