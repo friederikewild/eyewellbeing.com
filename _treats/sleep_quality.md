@@ -65,6 +65,8 @@ Creating a dark sleep environment is even more important when working in shifts 
 
 If you can install blackout curtains those are a great solution to block out light from the outside.
 
+![Eye Wellbeing Sleep Mask](/images/page_treats_sleep_mask.jpg "Eye Wellbeing Sleep Mask"){: .align-right}
+
 A more affordable and flexible option is to use a sleep mask. Our eyes register light and darkness. Therefore a mask helps to deepen the perceived darkness and limits your light exposure. 
 
 It might take a little time to get used to it. But once you experienced how relaxing it is, you will not want to go back and even miss it when sleeping again without. 
