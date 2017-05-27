@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Friederike Wild"
 tagline                  : "Improve your Eye Wellbeing"
 description              : &description "About Friederike Wild - Coach for eye wellbeing based in London UK and online. Helping you to relax your eyes and improve your vision."
-url                      : "http://eyewellbeing.com"
+url                      : "https://eyewellbeing.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : "teaser_default.png"
