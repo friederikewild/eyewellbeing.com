@@ -93,6 +93,8 @@
 
 {% if page.share %}
   <meta property="og:type" content="article">
+  {% for tag in page.tags %}<meta property="article:tag" content="{{ tag }}" />
+  {% endfor %}
 {% else %}
   <meta property="og:type" content="website">
 {% endif %}
