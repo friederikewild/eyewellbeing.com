@@ -10,3 +10,8 @@
 {% endcase %}
 
 {% endif %}
+
+
+{% if site.facebook_pixel_id %}
+	{% include /analytics-providers/facebook-pixel.html %}
+{% endif %}

@@ -59,6 +59,9 @@ analytics:
 google_ad_client         :
 google_ad_slot           :
 
+# Facebook Pixel
+facebook_pixel_id        : 169000980299601
+
 
 # Site Author
 author:
