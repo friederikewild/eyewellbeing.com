@@ -6,4 +6,14 @@
 
   ga('create', '{{ site.analytics.google.tracking_id }}', 'auto');
   ga('send', 'pageview');
+
+
+{% if page.ga_download_campaign %}
+
+	ga('send', 'event', '{{ page.title }}', 'download', '{{ page.ga_download_campaign }}');
+
+{% endif %}
+
+
 </script>
+
