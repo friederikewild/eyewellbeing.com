@@ -5,6 +5,7 @@ title_included: true
 layout: single
 excerpt: "Treat yourself and your loved ones with one of my handmade items. At the moment my Etsy shop mainly features sleep masks and relaxing eye pillows."
 share: true
+sitemap: true
 header:
   image: "header_store.jpg"
   caption: "[Find me on **Etsy**](http://etsy.me/2l0zWXx)"
