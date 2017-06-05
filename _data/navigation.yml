@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "Info"
+  - title: "About"
     url: /eyewellbeing/
 
   - title: "Eye Treats"
     url: /treats/
 
-  - title: "Work with me"
+  - title: "Services"
     url: /coaching/
 
   - title: "Shop" #Shop
     url: /shop/
 
-  - title: "About me" #Über mich
+  - title: "About Friederike" #Über mich
     url: /about/
 
 
