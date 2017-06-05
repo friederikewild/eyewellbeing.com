@@ -24,7 +24,7 @@ By using our website, you consent to the collection and use of your personal inf
 
 
 
-### What we collect
+### What We Collect
 
 We may collect the following information:
 
@@ -35,7 +35,7 @@ We may collect the following information:
 * Other information relevant to customer surveys and/or offers
 
 
-### What we do with the information we gather
+### What We Do With the Information We Gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -58,7 +58,7 @@ We are committed to ensuring that your information is secure. In order to preven
 Unfortunately, no data transmission over the internet can be guaranteed to be 100% secure. Accordingly, we cannot guarantee the security of any information transmitted to or from us.
 
 
-### How we use cookies
+### How We Use Cookies
 
 A cookie is a small piece of information which is stored by your browser on your computer’s hard drive. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -69,17 +69,17 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
 
-### Links to other websites
+### Links to Other Websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 
-### Controlling your personal information
+### Controlling Your Personal Information
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-* whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-* if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at ask@eyewellbeing.com
+* Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+* If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at ask@eyewellbeing.com
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
@@ -87,10 +87,18 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Privacy Act 1988 (Cth). If you would like a copy of the information held on you please write to ask@eyewellbeing.com
 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+### Maintaining the Quality of Your Personal Information
+
+It is an important to us that your Personal Information is up to date. We  will  take reasonable steps to make sure that your Personal Information is accurate, complete and up-to-date. 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as practicable, at the above address. We will promptly correct any information found to be incorrect to ensure we can continue to provide quality services to you.
+
+
+### Policy Updates
+
+This Policy may change from time to time and the latest version is available on this page.
 
 
 
-
-*This policy is valid from 1 June 2017.*
+*This policy is valid from 5 June 2017.*
 
