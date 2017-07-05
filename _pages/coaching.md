@@ -38,26 +38,41 @@ The aim is to prevent or reduce eye fatigue and vision stress which appear with 
 These symptoms can decrease your productivity and your happiness at work and in your daily life. Therefore, making simple precautions can improve your wellbeing significantly and not only for your eyes. Working with the computer will feel easier as well with relaxed and refreshed eyes.
 
 
+## My coaching
+
+* Learning by doing and feeling
+
+* Many techniques will illustrate aspects of our vision and bring the information to life
+
+* Challenge your vision and your mind in a fun way!
+
+
 ### Online coaching
 
-* Individual coaching course (8 x 60 minutes) via Facetime, Hangouts or Skype
+Individual coaching sessions are 60 minutes each via video conference (Zoom, Facetime, Hangouts or Skype)
 
-My complete eye wellbeing course consists of 8 modules, each focusing in depth on different aspects of our vision. Many exercises will illustrate them and bring the information to life in a fun way! 
+[Book yours now](/booking/)
+
+* Individual workplace course (4 x 60 minutes): 
+  My eye wellbeing workplace course consists of 4 modules. It is a compact version, ideal for people working a lot with screens. Learn about the most important aspects of our vision and how to take beneficial breaks at work.
+
+* Individual coaching course (10 x 60 minutes):
+  My complete eye wellbeing course consists of 10 modules. Each focusing in depth on different aspects of our vision.
 
 
 ### I currently offer in London
 
 * Workplace workshops
-* Group course (Next is planned to start in January 2017)
+* Group course
 
-The workplace workshop offers a compact overview to the topic as well as useful tips and short habits to integrate into your daily routine.
+The workplace workshop offers a compact overview to the topic as well as useful tips and quick habits to integrate into your daily routine.
 
 
 ### How to prepare:
 
-Eye wellness is suitable for everyone who wants to maintain a healthy sight and learn how to prevent or improve vision disorders naturally. 
+Eye wellbeing is suitable for everyone who wants to maintain a healthy sight and learn how to prevent or improve vision disorders naturally. 
 
 Please wear comfortable clothes and bring along your contact lens container and/or your spectacle case.
 Teaching is offered in English or German.
 
-If you would like to know more, please contact me via [coach(at)friederikewild.me](mailto:{{ author.email }}) for further details.
+If you would like to know more, please contact me via [coach(at)eyewellbeing.com](mailto:{{ author.email }}) for further details.
