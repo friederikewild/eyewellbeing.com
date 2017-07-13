@@ -1,10 +1,10 @@
 ---
 permalink: /blog/
 layout: archive
-title: "Improve your Eye Wellbeing"
+title: "Blog: Improve your Eye Wellbeing"
 excerpt: "Friederike Wild your coach for eye wellbeing for healthy and vital vision."
 author_profile: true
-sitemap: true
+sitemap: false
 read_time: false
 comments: false
 share: true
