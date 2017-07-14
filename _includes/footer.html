@@ -1,9 +1,7 @@
 {% include base_path %}
 
-<!---
-TODO: Enable once more social networks are ready
 
-
+<!--
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
@@ -33,4 +31,10 @@ TODO: Enable once more social networks are ready
 </div>
 -->
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}
+
+<a href="{{ site.url }}/policies/" rel="nofollow" target="_blank">Privacy Policy</a> | <a href="{{ site.url }}/terms-conditions/" rel="nofollow" target="_blank">Terms and Conditions</a>
+</div>
+<div class="page__footer-copyright">
+{{ site.data.ui-text[site.locale].powered_by }} <a href="http://jekyllrb.com" rel="nofollow" target="_blank">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" target="_blank">Minimal Mistakes Theme</a>
+</div>

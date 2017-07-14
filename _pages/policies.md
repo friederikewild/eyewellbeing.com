@@ -21,6 +21,11 @@ I am not a medical doctor. This site and the information it contains is based on
 The information and advice provided on my blog are of a general nature and should never replace individual health advice provided by your healthcare professional team.
 
 
+## Terms and Conditions
+
+Please refer to the full [{{ site.url }}/terms-conditions/](Terms and Conditions)
+
+
 
 ## Privacy Policy
 
