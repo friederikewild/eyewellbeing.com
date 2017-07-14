@@ -25,7 +25,7 @@ Born in 1983 in Germany, I initially studied computer science, before progressin
 
 My fascination for eye therapy training started when I discovered that it offers an alternative to depending on strong contact lenses and glasses for my short-sightedness. Wearing glasses had weakened my eyes over the years and my last contact lenses prescription was -7 dioptre on both eyes. I am still on my journey to completely regain my vision but already I can tell how beneficial a daily eye wellbeing routine is.
 
-I have studied in Germany with renowned vision teacher [Wolfgang Hätscher-Rosenbauer](http://institut-fuer-sehtraining.de/). In September 2016 I completed my training as Teacher for Holistic School for the Eyes ("ganzheitliche Augenschule").
+I have studied in Germany with renowned vision teacher [Wolfgang Hätscher-Rosenbauer](http://institut-fuer-sehtraining.de/){:target="_blank"}. In September 2016 I completed my training as Teacher for Holistic School for the Eyes ("ganzheitliche Augenschule").
 
 I would love to be your coach for eye wellbeing and help you to learn to relax and discover your eyes full potential.
 
@@ -33,7 +33,7 @@ I would love to be your coach for eye wellbeing and help you to learn to relax a
 
 ---
 
-My other passion is creating delicious vegan food. Research suggests that a nutritious plant-based diet is beneficial to activate your self-healing powers. Why not give it a try with our collection of [veganised recipes](http://veganised.co.uk "veganised recipes").
+My other passion is creating delicious vegan food. Research suggests that a nutritious plant-based diet is beneficial to activate your self-healing powers. Why not give it a try with our collection of [veganised recipes](http://veganised.co.uk "veganised recipes"){:target="_blank"}.
 
 
 
