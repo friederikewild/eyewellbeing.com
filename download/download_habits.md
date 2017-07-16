@@ -4,7 +4,7 @@ permalink: /262380/HabitsHarmingEyes/
 layout: download
 
 download_name: 10 Common Habits That Harm Your Eyes
-download_file: https://images.clickfunnels.com/uploads/digital_asset/file/264004/EyeWellbeing_Common_Habits_Harming_Eyes.pdf
+download_file: https://p-ams1.pcloud.com/D4ZrOWNEXZdk89AXZ2rmqZZOICSE7Z2ZZ585ZkZdfk7ZekZYZPVZzwEiZafVdFfM38jYUwYyW0NdqOYDTO5QX/EyeWellbeing_Common_Habits_Harming_Eyes.pdf
 ga_download_campaign: HolidayQuiz
 
 share: false
