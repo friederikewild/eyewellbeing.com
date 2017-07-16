@@ -145,6 +145,7 @@ Risk of damage to, or loss of, any Goods will pass to you when the Goods are del
 
 You do not own the Goods until we have received payment in full. If full payment is overdue or a step occurs towards your bankruptcy, we can choose, by notice to cancel any delivery and end any right to use the Goods still owned by you, in which case you must return them or allow us to collect them.
 
+
 ## 9. Withdrawal returns and cancellation
 
 You can withdraw the Order by telling us before the Contract is made, if you simply wish to change your mind and without giving us a reason, and without incurring any liability.
@@ -209,7 +210,7 @@ For the purposes of these Cancellation Rights, these words have the following me
 
 ## 10. Conformity and Guarantee
 
-Every effort is made to keep the program up-to-date and amongst the industry's leading products to help you take care of your eyes. Accordingly, a 30 Day "Happiness" Guarantee is provided for all purchases of The Eye Wellbeing Holiday Online Programs. To claim the "Happiness" Guarantee, purchasers must email ask@eyewellbeing.com within the first 30 days with feedback on at least two lessons how they failed expectations.
+Every effort is made to keep the program up-to-date and amongst the industry's leading products to help you take care of your eyes. Accordingly, a 30 Day "Happiness" Guarantee is provided for all purchases of The Eye Wellbeing Holiday Online Programs. To claim the Money Back Guarantee, purchasers must email ask@eyewellbeing.com within the first 30 days, preferable with feedback on at least one lesson and how it failed expectations.
 
 We furthermore have a legal duty to supply the Goods in conformity with the Contract, and will not have conformed if it does not meet the following obligation.
 Upon delivery, the Goods will: 
