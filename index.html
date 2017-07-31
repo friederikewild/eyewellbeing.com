@@ -14,20 +14,25 @@ header:
   overlay_color: "#8492cd"
   overlay_image: home-page-feature.jpg
 
+vimeoId: 227720622
+
 ---
 
 {% include base_path %}
 
-<div class="grid__wrapper">
+
+{% include vimeoPlayer.html id=page.vimeoId %}
+
+<div class="grid__wrapper" style="padding-top: 2em">
   {% for post in site.data.splash %}
     {% include archive-single.html type="grid" format="splash" %}
   {% endfor %}
 </div>
 
 
-<div style="clear:both"></div>
-
 {% if paginator.posts %}
+
+<div style="clear:both"></div>
 
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
@@ -39,8 +44,8 @@ header:
 </div>
 
 
+{% include paginator.html %}
+
 {% endif %}
 
-
-{% include paginator.html %}
 
