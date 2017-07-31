@@ -1,13 +1,14 @@
 # splash links
 
-- title: "About Eye Wellbeing"
-  url: /eyewellbeing/
-  hometeaser: home_unsplash_eye.jpg
-
 
 - title: "Quiz: How Are Your Eyes?"
   url: /quiz/
   hometeaser: home_unsplash_quiz.jpg
+
+
+- title: "About Eye Wellbeing"
+  url: /eyewellbeing/
+  hometeaser: home_unsplash_eye.jpg
 
 
 - title: "Services: Work With Me"
