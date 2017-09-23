@@ -1,6 +1,6 @@
 ---
 permalink: /quiz-mobile/
-title: "Quiz: Are Your Eyes Ready For Holiday From Daily Grind?"
+title: "Quiz: Are Your Eyes Ready For Holiday From The Daily Grind?"
 layout: quiz
 share: false
 sitemap: false
