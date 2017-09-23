@@ -1,10 +1,10 @@
 ---
 permalink: /quiz-mobile/
-title: "Quiz: Are Your Eyes Ready For Holiday From The Daily Grind?"
+title: "Are Your Eyes Ready For Holiday From The Daily Grind?"
 layout: quiz
 share: false
 sitemap: false
-excerpt: "Find out how affected your eyes are by your work and life choices. Which kind of holiday would they choose to recover? Unlock your personal tips to improve the well-being of your eyes."
+excerpt: "Find out how affected your eyes are by your work and life choices. Which kind of holiday would they choose to recover?"
 tags: [eyes, vision, eye break, quiz, personality test, eye wellbeing, eye holiday, eye pain, eye strain, straining, eye wellbeing, wellbeing, eye health]
 facebook_pixel_id: 169000980299601
 header:
