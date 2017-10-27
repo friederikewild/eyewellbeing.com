@@ -1,11 +1,11 @@
 ---
-permalink: /droidcon/
+permalink: /vision-challenge/
 title: "Fun Quiz: Challenge Your Vision"
 layout: quiz
 excerpt: "Are you ready to view things in new ways? Forget the known and explore what your eyes are able to do!"
 tags: [eyes, vision, eye break, quiz, personality test, eye wellbeing, eye holiday, eye pain, eye strain, straining, eye wellbeing, wellbeing, eye health]
-share: false
-sitemap: false
+share: true
+sitemap: true
 facebook_pixel_id: 169000980299601
 header:
   image: "eyewellbeing_challenge.jpg"
