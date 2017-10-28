@@ -2,7 +2,7 @@
 permalink: /vision-quiz/
 title: "Vision Challenge - Competition time 👀"
 layout: quiz
-excerpt: "Are you ready to view things in new ways? Forget the known and explore what your eyes are able to do!"
+excerpt: "Are you ready to trick your brain to view things in new ways? Forget the known and have fun seeing beyond the usual! Enter the competition for a chance to win a natural vision therapy session."
 tags: [eyes, vision, eye break, quiz, eye wellbeing, eye holiday, eye pain, eye strain, straining, eye wellbeing, wellbeing, eye health]
 share: false
 sitemap: false
