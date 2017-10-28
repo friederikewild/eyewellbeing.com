@@ -8,7 +8,7 @@ share: false
 sitemap: false
 facebook_pixel_id: 169000980299601
 header:
-  image: "eyewellbeing_challenge.jpg"
+  image: "vision_challenge.jpg"
 
 ---
 
