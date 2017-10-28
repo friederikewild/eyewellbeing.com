@@ -1,9 +1,9 @@
 ---
 permalink: /vision-challenge/
-title: "Fun Quiz: Challenge Your Vision"
+title: "Vision Challenge - Competition time 👀"
 layout: quiz
-excerpt: "Are you ready to view things in new ways? Forget the known and explore what your eyes are able to do!"
-tags: [eyes, vision, eye break, quiz, personality test, eye wellbeing, eye holiday, eye pain, eye strain, straining, eye wellbeing, wellbeing, eye health]
+excerpt: "Are you ready to trick your brain to view things in new ways? Forget the known and have fun seeing beyond the usual! Enter the competition for a chance to win a natural vision therapy session."
+tags: [eyes, vision, eye break, quiz, eye wellbeing, eye holiday, eye pain, eye strain, straining, eye wellbeing, wellbeing, eye health]
 share: true
 sitemap: true
 facebook_pixel_id: 169000980299601
