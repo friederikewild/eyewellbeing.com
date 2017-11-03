@@ -35,4 +35,3 @@ I will also take time to guide you through one of the best techniques to refresh
 
 
 Note: The coaching is offered using zoom video conference. You will receive your link to join before the appointment.
-
