@@ -22,7 +22,7 @@ header:
 You have received a one-time link to book an **online session for free**!
 
 
-Please <a href="https://10to8.com/book/kulyej-free/328506">Visit Booking Form</a> and pick a suitable day and time slot
+Please <a href="https://10to8.com/book/kulyej-free/328506">Visit My Booking Form</a> and pick a day and time slot that suits your calendar best.
 
 
 ## Eye Wellbeing is like taking holidays for your eyes.
@@ -31,7 +31,7 @@ Please <a href="https://10to8.com/book/kulyej-free/328506">Visit Booking Form</a
 This initial consultation session is the perfect start if you have not worked with me before. We will use this time to get to know each other and decide together which of my coaching programs will suit you best. This allows you to get to know your options and get the most out of our following sessions. 
 
 
-In the actual sessions I will share techniques with you that are easy to learn and integrate as breaks from the daily grind.
+I will also take time to guide you through one of the best techniques to refresh your eyes. This with you to give you a better insight to my program.
 
 
 Note: The coaching is offered using zoom video conference. You will receive your link to join before the appointment.

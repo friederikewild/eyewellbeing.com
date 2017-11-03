@@ -22,7 +22,7 @@ header:
 You have received a one-time link to book an online session at **50% of the regular price**!
 
 
-Please <a href="https://10to8.com/book/kulyej-free/257068">Visit Booking Form</a> and pick a suitable day and time slot
+Please <a href="https://10to8.com/book/kulyej-free/257068">Visit Booking Form</a> and pick a suitable day and time slot.
 
 
 ## Eye Wellbeing is like taking holidays for your eyes.
