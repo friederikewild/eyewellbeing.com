@@ -5,7 +5,7 @@ header:
   teaser: "teaser_magic_eye.jpg"
   image: "header_treats_magic_eye.jpg"
   caption: "[See the hidden image](/images/header_treats_magic_map.jpg)"
-modified: 2016-11-09T9:20:00-1:00
+modified: 2017-11-22T9:20:00-1:00
 affiliate: true
 lang: en
 ref: treat_magic
@@ -114,9 +114,10 @@ If you like computers, you can also start to create your own Stereograms with hi
 
 I can also recommend getting one of the books and place it somewhere like a waiting area in your office or the bathroom. That way whenever you are on a short break you can come back to the fun of seeing what is hidden at first sight. So here is a collection of my current favourites with links to amazon. I hope you do not mind the advertisement, but this way you get even more 3D fun here. 
 
-Still looking for a Christmas present or a daily reminder for yourself to take care of your eyes? Then how about this eye catching [wall calendar for 2017](https://www.amazon.co.uk/gp/product/144947702X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eyewell-21&linkId=a47427d39199934306c0d066cb4ec2fc){:target="_blank"}? Living in London I am pretty excited about the preview of the January page:
 
-[![Amazon Magic Eye 2017 Wall Calendar](/images/page_amazon_treats_magic_calendar.jpg "Amazon Magic Eye 2017 Wall Calendar")](https://www.amazon.co.uk/gp/product/144947702X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eyewell-21&linkId=f8403685dc855d7c2b9cd6cab975746b){:target="_blank"}
+The front cover of this one is very thoughtfully desinged and as the name of the book suggests one of many ["Startling Stereograms"](https://www.amazon.co.uk/Startling-Stereograms-Gene-Levine/dp/1936140667/ref=as_li_ss_tl?_encoding=UTF8&psc=1&refRID=RZXA2ZYBC97575432YJF&linkCode=ll1&tag=eyewell-21&linkId=b0a87f4d7bd3262575b4cd26a73331d0){:target="_blank"}:
+
+<a href="https://www.amazon.co.uk/Startling-Stereograms-Gene-Levine/dp/1936140667/ref=as_li_ss_il?_encoding=UTF8&psc=1&refRID=RZXA2ZYBC97575432YJF&linkCode=li3&tag=eyewell-21&linkId=4116a0507cb67b14fdcc1c735b08fd14" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1936140667&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=eyewell-21" ></a><img src="https://ir-uk.amazon-adsystem.com/e/ir?t=eyewell-21&l=li3&o=2&a=1936140667" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 If you want to read more about the health benefits and ["Reduce Computer Eye Strain, Stress & More"](https://www.amazon.co.uk/gp/product/0740745271/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eyewell-21&linkId=39bc7b8c1a0f9735603c0d84cb7e861d){:target="_blank"} as they book describes it, then this one is great for you:
@@ -131,4 +132,10 @@ If you are looking for a book full of hidden images, I can recommend this one pa
 
 
 The front covers could have been chosen better, but Amazon offers "Look inside!" for both books, so more fun to have if you head over there.
+
+
+Sadly the eye catching [wall calendar for 2017] is currently not available for 2018, but I'll keep the link for you to have a look inside online (https://www.amazon.co.uk/gp/product/144947702X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eyewell-21&linkId=a47427d39199934306c0d066cb4ec2fc){:target="_blank"}? Living in London I am pretty excited about the preview of the January page:
+
+[![Amazon Magic Eye 2017 Wall Calendar](/images/page_amazon_treats_magic_calendar.jpg "Amazon Magic Eye 2017 Wall Calendar")](https://www.amazon.co.uk/gp/product/144947702X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eyewell-21&linkId=f8403685dc855d7c2b9cd6cab975746b){:target="_blank"}
+
 

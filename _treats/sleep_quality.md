@@ -5,7 +5,7 @@ header:
   teaser: "teaser_treats_sleep_quality.jpg"
   image: "header_treats_sleep_quality.jpg"
   caption: "Available on : [**Etsy**](http://etsy.me/2l43t4a)"
-modified: 2017-02-27T16:30:00-1:00
+modified: 2017-11-22T16:30:00-1:00
 affiliate: true
 lang: en
 ref: treat_sleep
@@ -97,11 +97,10 @@ Just as important as sleeping in darkness is light to fully wake-up. Make it you
 
 ## Smart Lighting
 
-Lighting that follows natural day and night routines is very important to our health as we have learned from above. Dimmed yellow/orange light in the evening can help to fall asleep more easily and slowly increasing bright light in the morning is a great way to wake up. These are only two of the options that I love about having the Philips Hue Light system at home. It also allows for different scenes to help you concentrate or relax and all controlled via an automated setup or with simple control via your smartphone. 
+Lighting that follows natural day and night routines is very important to our health as we have learned from above. Dimmed yellow/orange light in the evening can help to fall asleep more easily and slowly increasing bright light in the morning is a great way to wake up. These are only two of the options that I love about having the Philips Hue Light system at home. It also allows for different scenes to help you concentrate or relax and all controlled via an automated time-based setup or with simple control via your smartphone or the included dimmer switch. 
 
-If you have been looking for a way to bring coloured light into your home I can recommend this Starter Kit which is available on Amazon:
+If you have been looking for a way to bring coloured light into your home I can recommend this Starter Kit which is available on Amazon (Other bulbs are available too):
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=eyewell-21&marketplace=amazon&region=GB&placement=B01K1WP7Z4&asins=B01K1WP7Z4&linkId=&show_border=true&link_opens_in_new_window=true">
-</iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=eyewell-21&marketplace=amazon&region=GB&placement=B074H3HYRM&asins=B074H3HYRM&linkId=1a46c7ed7188d3d95aad480581cafc61&show_border=true&link_opens_in_new_window=true"></iframe>
 
 
