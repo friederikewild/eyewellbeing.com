@@ -131,10 +131,10 @@ If you are looking for a book full of hidden images, I can recommend this one pa
 <a href="https://www.amazon.co.uk/gp/product/0836270444/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=eyewell-21&linkId=f3eac3abc56cbdd75936715e4f47acc1" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0836270444&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=eyewell-21" ></a><img src="https://ir-uk.amazon-adsystem.com/e/ir?t=eyewell-21&l=li3&o=2&a=0836270444" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
-The front covers could have been chosen better, but Amazon offers "Look inside!" for both books, so more fun to have if you head over there.
+The front covers could have been chosen better, but Amazon offers **"Look inside!"** for both books, so more fun to have if you head over there.
 
 
-Sadly the eye catching [wall calendar for 2017] is currently not available for 2018, but I'll keep the link for you to have a look inside online (https://www.amazon.co.uk/gp/product/144947702X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eyewell-21&linkId=a47427d39199934306c0d066cb4ec2fc){:target="_blank"}? Living in London I am pretty excited about the preview of the January page:
+Sadly the eye catching [Magic Eye wall calendar](https://www.amazon.co.uk/gp/product/144947702X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eyewell-21&linkId=a47427d39199934306c0d066cb4ec2fc){:target="_blank"} is currently not again available for 2018, but I'll keep last years link for you to have a look inside online. Living in London I am pretty excited about the preview of the January page:
 
 [![Amazon Magic Eye 2017 Wall Calendar](/images/page_amazon_treats_magic_calendar.jpg "Amazon Magic Eye 2017 Wall Calendar")](https://www.amazon.co.uk/gp/product/144947702X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eyewell-21&linkId=f8403685dc855d7c2b9cd6cab975746b){:target="_blank"}
 
